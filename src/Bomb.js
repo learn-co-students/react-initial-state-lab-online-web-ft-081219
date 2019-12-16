@@ -20,16 +20,3 @@ export default class Bomb extends Component {
         } 
     }
 
-    // countdownBoom = () => {
-    //     // let timeLeft = this.state.secondsLeft
-    //     let message;
-    //     if(this.state.secondsLeft === 0) {
-    //         message = 'Boom!'
-    //     }
-    //     if(this.state.secondsLeft > 0) {
-    //         while(this.state.secondsLeft > 0) {   
-    //             message = `${this.state.secondsLeft} seconds left before I go boom!`
-    //         }
-    //     } 
-    // }
-
